@@ -1,6 +1,6 @@
 ![MasterHead](https://funtechsummercamps.com/blog/wp-content/uploads/2020/04/online-classes.jpg)
 <h1 align="center">Hi 👋, I'm Biswajit Mondal</h1>
-<h3 align="center">Hi,I'm Biswajit Mondal ! Currently I'm pursuing Electronics & communication engineering(BTech) at Academy of Technology..</h3>
+<h3 align="center"> Currently I'm pursuing Electronics & communication engineering(BTech) at Academy of Technology..</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
